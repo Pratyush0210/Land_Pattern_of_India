@@ -3,6 +3,7 @@
 ## A: NINE-FOLD CLASSIFICATION:
 
 > **1.** Forest Area: This includes all land classified either as forest under any legal enactment, or administered as forest, whether State-owned or private, and whether wooded or maintained as potential forest land. The area of crops raised in the forest and grazing lands or areas open for grazing within the forests remain included under the “forest area”.
+
 > **2.** Area under Non-agricultural Uses: This includes all land occupied by buildings, roads and railways or under water, e.g. rivers and canals, and other land put to uses other than agriculture.
 **3.** Barren and Un-culturable Land: This includes all land covered by mountains, deserts, etc. Land, which cannot be brought under cultivation except at an exorbitant cost is classified as unculturable whether such land is in isolated blocks or within cultivated holdings.
 **4.** Permanent Pasture and other Grazing Land: This includes all grazing land whether it is permanent pasture/meadows or not. Village common grazing land is included
